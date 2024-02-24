@@ -6,5 +6,5 @@ The project aims to design a framework for optimizing a marketing strategy given
 
 <!-- Read the project report and presentation [here](https://drive.google.com/drive/folders/1InYuiOKOBdG6bBBSrPYW0WcpqTlEn5uc?usp=sharing)-->
 
-<img width="864" alt="image" src="https://github.com/Sanya-Chauhan/Optimizing_Marketing_Strategies/assets/116647771/938fcf51-134b-495b-ac39-33adc52a243e">
+<!-- <img width="864" alt="image" src="https://github.com/Sanya-Chauhan/Optimizing_Marketing_Strategies/assets/116647771/938fcf51-134b-495b-ac39-33adc52a243e">-->
 
