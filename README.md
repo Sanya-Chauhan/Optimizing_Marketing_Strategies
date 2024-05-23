@@ -3,7 +3,7 @@
 *This project was a part of MIT's course 15.093 Optimization Methods.*
 
 ## Purpose and Overview
-The project aims to design a framework for optimizing a marketing strategy given a fixed budget, multiple marketing options, and varying constraints and optimization goals. Four marketing options are included here: Targeted Online Advertising, E-mail, Print Media, and Influencer Marketing. However, the frameworks and formulations we provide can be easily extended to fit any combination of marketing options.
+The project aims to design a framework for optimizing a marketing strategy given a fixed budget, multiple marketing options, varying constraints, and optimization goals. Four marketing options are included here: Targeted Online Advertising, E-mail, Print Media, and Influencer Marketing. However, the frameworks and formulations we provide can be easily extended to fit any combination of marketing options.
 
 ## Data
 The data for this project is synthetically generated. We have four different marketing options for a product: Targeted Online Advertising (max investment value: $990), E-mail (max investment value: $500), Print Media (max investment value: $700), and Influencer Marketing (Social Media) (max investment value: $600). For each of these options, we have the following variables in the data: 
